@@ -13,7 +13,7 @@ function App() {
       This is a new React app hosted on VS Online...
       </p>
       <p>
-        balbalbalba 
+        test test test
       </p>
     </div>
   );
